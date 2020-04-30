@@ -65,3 +65,4 @@ snowflake-whitelist
 Golang
 ClientTelemetryFramework
 lib/*
+*.swp
